@@ -1,15 +1,19 @@
 ---
 
+# https://gohugo.io/documentation/
+# https://gohugo.io/getting-started/configuration/
 # https://docs.stack.jimmycai.com/
+
+# https://roneo.org/en/a-newsletter-with-hugo-buttondown-and-netlify/
 
 baseurl: https://www.procamora.com
 languageCode: es
 defaultContentLanguage: es
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: "#> fireroot"
 enableRobotsTXT: true
-editURL : ""
+editURL: ""
 #outputs:
 #  home:
 #    - HTML
@@ -191,3 +195,9 @@ markup:
     startLevel: 2
   highlight:
     noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
