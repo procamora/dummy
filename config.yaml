@@ -25,7 +25,7 @@ outputs:
 languages:
   es:
     languageName: Español
-    contentDir: content/es
+    contentDir: content
     weight: 1
     sidebar:
       #      emoji: 🍥
@@ -37,7 +37,7 @@ languages:
 
   en:
     languageName: English
-    contentDir: content/en
+    contentDir: content
     weight: 2
     sidebar:
       #      emoji: 🍥

@@ -1,11 +1,9 @@
 ---
 title: Acerca de
 #description: Quien soy?
-date: '2021-08-27'
 aliases:
   - about
   - about-es
-  - about-hugo
   - contact
 license: CC BY-NC-ND
 lastmod: '2021-08-27'
