@@ -29,7 +29,7 @@ languages:
     weight: 1
     sidebar:
       #      emoji: 🍥
-      subtitle: Mi wiki sobre linux y pentesting.
+      subtitle: Mi wiki donde escribo artículos sobre Linux, Ciberseguridad y temas relacionados.
       avatar:
         enabled: true
         local: true
@@ -41,7 +41,7 @@ languages:
     weight: 2
     sidebar:
       #      emoji: 🍥
-      subtitle: My wiki about linux and pentesting.
+      subtitle: My wiki where I write articles about Linux, Cybersecurity and related topics.
       avatar:
         enabled: true
         local: true
@@ -66,7 +66,7 @@ params:
     - post
   featuredImageField: image
   rssFullContent: true
-  favicon: img/procamora.png
+  favicon: img/favicon.ico
 
   footer:
     since: 2020

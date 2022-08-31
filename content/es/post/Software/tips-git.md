@@ -1,25 +1,20 @@
 ---
-title: 
+title: Tips Git
 description: 
-date: 
-lastmod: 
-slug: 
+date: 2019-10-08
+lastmod: 2019-10-08
+slug: tips-git
 image: "covers/software.png"
 tags:
-  - 
+  - git
+  - linux
+  - windows
+  - consola
+  - programacion
+  - ramas
+  - repositorio
 categories:
   - Software
----
----
-Title: Tips Git
-Date: 2019-10-8 18:33
-Modified: 2019-10-8 18:33
-Category: Software
-Tags: git, linux, windows, consola, programacion, ramas, reopsitorio
-Authors: procamora
-Slug: tips-git
-Summary: 
-Status: published
 ---
 
 

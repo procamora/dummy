@@ -1,23 +1,16 @@
 ﻿---
-title: 
+title: Tips vim
 description: 
-date: 
-lastmod: 
-slug: 
+date: 2015-08-01
+lastmod: 2015-08-01
+slug: tips_vim
 image: "covers/software.png"
 tags:
-  - 
+  - linunx
+  - vim
 categories:
   - Software
 ---
-Title: Tips vim
-Date: 2015-08-1 07:51
-Modified: 2015-08-1 07:51 
-Category: Software
-Tags: linux, vim
-Slug: vim
-Authors: procamora
-Summary:
 
 ## Modo edición
 ###### habilitar la edición

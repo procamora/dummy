@@ -1,4 +1,17 @@
-﻿Title: 16 comandos útiles
+﻿---
+title: 
+description: 
+date: 
+lastmod: 
+slug: 
+image: "covers/software.png"
+tags:
+  - 
+categories:
+  - Linux
+---
+
+Title: 16 comandos útiles
 Date: 2015-11-16 14:31
 Modified: 2015-11-16 14:31
 Category: Linux

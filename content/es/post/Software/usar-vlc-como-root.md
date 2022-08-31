@@ -1,24 +1,18 @@
 ---
-title: 
-description: 
-date: 
-lastmod: 
-slug: 
+title: Usar vlc como root
+description: Cuando ejecutas linux como root obtienes el siguiente resultado
+date: 2016-01-29
+lastmod: 2016-01-29
+slug: 2016_01_09_usar-vlc-como-root
 image: "covers/software.png"
 tags:
-  - 
+  - vlc
+  - linux
+  - kali
 categories:
   - Software
 ---
-Title: Usar vlc como root
-Date: 2016-1-29 17:51
-Modified: 2016-1-29 17:51
-Category: Software
-Tags: vlc, linux, kali
-Authors: procamora
-Slug: 2016_01_09_usar-vlc-como-root
-Summary: Cuando ejecutas linux como root obtienes el siguiente resultado
-Status: published
+
 
 Cuando ejecutas linux como root obtienes el siguiente resultado:
 
