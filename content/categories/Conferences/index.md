@@ -1,7 +1,7 @@
 ---
-title: "Language"
+title: "Conferences"
 description: "Languages"
-slug: "language"
+slug: "conferences"
 image: "cover.jpg"
 ---
 
