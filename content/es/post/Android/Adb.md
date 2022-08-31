@@ -11,7 +11,7 @@ tags:
   - consola
   - fastboot
   - nexus
-categories: 
+categories:
   - Android
 ---
 

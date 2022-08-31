@@ -9,6 +9,6 @@ hidden: false
 draft: true
 tags:
   - a
-categories: 
+categories:
   - a
 ---

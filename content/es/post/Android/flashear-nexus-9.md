@@ -11,7 +11,7 @@ tags:
   - twrp
   - adb
   - sideload
-categories: 
+categories:
   - Android
 ---
 

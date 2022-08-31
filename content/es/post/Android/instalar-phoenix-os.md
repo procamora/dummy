@@ -9,7 +9,7 @@ tags:
   - nexus9
   - phoenix
   - adb
-categories: 
+categories:
   - Android
 ---
 

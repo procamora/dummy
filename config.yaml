@@ -10,14 +10,15 @@ baseurl: https://www.procamora.com
 languageCode: es
 defaultContentLanguage: es
 theme: hugo-theme-stack
+#theme: hugo-theme-learn
 paginate: 10
 title: "#> fireroot"
 enableRobotsTXT: true
-editURL: ""
-#outputs:
-#  home:
-#    - HTML
-#    - RSS
+
+outputs:
+  home:
+    - HTML
+    - RSS
 #    - JSON
 
 
@@ -32,7 +33,7 @@ languages:
       avatar:
         enabled: true
         local: true
-        src: img/procamora_30.png
+        src: icons/procamora_30.png
 
   en:
     languageName: English
@@ -44,7 +45,7 @@ languages:
       avatar:
         enabled: true
         local: true
-        src: img/procamora_30.png
+        src: icons/procamora_30.png
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack

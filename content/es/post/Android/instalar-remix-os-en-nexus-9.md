@@ -2,7 +2,7 @@
 title: Instalar Remix OS en Nexus 9
 description: Instrucciones para instalar la rom de Remix OS 1.5 en una Nexus 9
 date: 2016-01-27
-lastmod: "2016-01-27"
+lastmod: 2016-01-27
 slug: instalar-remix-os-en-nexus-9
 image: "covers/android.png"
 tags:
@@ -10,7 +10,7 @@ tags:
   - remix
   - remixos
   - twrp
-categories: 
+categories:
   - Android
 ---
 

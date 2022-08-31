@@ -11,7 +11,7 @@ tags:
   - linux
   - screen
   - scrcpy
-categories: 
+categories:
   - Android
 ---
 

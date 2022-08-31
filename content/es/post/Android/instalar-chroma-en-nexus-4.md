@@ -7,7 +7,7 @@ image: "covers/android.png"
 tags:
   - chroma
   - nexus4
-categories: 
+categories:
   - Android
 ---
 

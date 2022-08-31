@@ -7,7 +7,7 @@ image: "covers/android.png"
 tags:
   - android
   - twrp
-categories: 
+categories:
   - Android
 ---
 
