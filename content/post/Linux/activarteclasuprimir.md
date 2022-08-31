@@ -1,10 +1,17 @@
-Title: ActivarTeclaSuprimir
-Date: 2015-12-27 1:57
-Category: Linux
-Tags: linux, gnome shell
-Slug: activarteclasuprimir
-Summary:Parece ser que la combinación en las versiones de GNOME Shell a utilizar son: CTRL + supr si quieres que pasen por la papelera o SHIFT + supr si quieres eliminar archivos o carpetas directamente.
-Status: published
+---
+title: Activar Tecla Suprimir
+description: "Parece ser que la combinación en las versiones de GNOME Shell a utilizar son: CTRL + supr si quieres que pasen por la papelera o SHIFT + supr si quieres eliminar archivos o carpetas directamente."
+date: 2015-12-27
+lastmod: 2015-12-27
+slug: activarteclasuprimir
+image: "covers/linux.png"
+tags:
+  - linux
+  - gnome shell
+categories:
+  - Linux
+---
+
 
 
 Parece ser que la combinación en las versiones de GNOME Shell a utilizar son: CTRL + supr si quieres que pasen por la papelera o SHIFT + supr si quieres eliminar archivos o carpetas directamente.

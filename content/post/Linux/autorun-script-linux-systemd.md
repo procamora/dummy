@@ -1,12 +1,17 @@
-Title: autorun script linux systemd
-Date: 2016-3-24 1:32
-Modified: 2016-3-24 1:32
-Category: Linux
-Tags: raspberrypi, systemd
-Authors: procamora
-Slug: autorun-script-linux-systemd
-Summary: Crear un script que arranque con el sistema.
-Status: published
+---
+title: autorun script linux systemd
+description: Crear un script que arranque con el sistema.
+date: 2016-03-24
+lastmod: 2016-03-24
+slug: autorun-script-linux-systemd
+image: "covers/linux.png"
+tags:
+  - raspberrypi
+  - systemd
+categories:
+  - Linux
+---
+
 
 
 

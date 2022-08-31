@@ -1,24 +1,17 @@
 ﻿---
-title: 
+title: 16 comandos útiles
 description: 
-date: 
-lastmod: 
-slug: 
-image: "covers/software.png"
+date: 2015-11-16
+lastmod: 2015-11-16
+slug: 16_magnificos_comandos
+image: "covers/linux.png"
 tags:
-  - 
+  - linux
 categories:
   - Linux
 ---
 
-Title: 16 comandos útiles
-Date: 2015-11-16 14:31
-Modified: 2015-11-16 14:31
-Category: Linux
-Tags: linux
-Slug: 16_magnificos_comandos
-Authors: procamora
-Summary:
+
 
 ######1. Controla la cantidad de RAM que tiene libre:
 `free`

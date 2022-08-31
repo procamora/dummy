@@ -1,26 +1,17 @@
 ---
-title: 
+title: Virtualbox cli
 description: 
-date: 
-lastmod: 
-slug: 
+date: 2019-10-17
+lastmod: 2019-10-17
+slug: virtualbox-cli
 image: "covers/software.png"
 tags:
-  - 
+  - virtualbox
+  - console
 categories:
   - Software
 ---
----
-Title: Virtualbox cli
-Date: 2019-10-17 19:33
-Modified: 2019-10-17 19:33
-Category: Software
-Tags: virtualbox, console
-Authors: procamora
-Slug: virtualbox-cli
-Summary: 
-Status: published
----
+
 
 
 

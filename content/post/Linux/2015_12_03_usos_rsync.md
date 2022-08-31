@@ -1,10 +1,16 @@
-Title: Uso de Rsync
-Date: 2015-12-3 9:17
-Category: Linux
-Tags: linux, rsync, comandos
-Slug: 2015_12_03_usorsync
-Summary:
-Status: published
+---
+title: Uso de Rsync
+description: 
+date: 2015-12-03
+lastmod: 2015-12-03
+slug: 2015_12_03_usorsync
+image: "covers/linux.png"
+tags:
+  - rsync
+  - command
+categories:
+  - Linux
+---
 
 
 rsync es una herramienta para sincronizar los ficheros y directorios que tenemos almacenados en un sitio en otro diferente minimizando la transferencia de datos

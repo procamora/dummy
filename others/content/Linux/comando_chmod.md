@@ -1,3 +1,15 @@
+---
+title: autorun script linux systemd
+description: 
+date: 
+lastmod: 
+slug: 
+image: "covers/linux.png"
+tags:
+  - 
+categories:
+  - Linux
+---
 Title: Uso de chmod
 Date: 2015-11-4 14:24
 Modified: 2015-11-4 14:24

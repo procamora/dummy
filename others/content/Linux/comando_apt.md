@@ -1,3 +1,16 @@
+---
+title: autorun script linux systemd
+description: 
+date: 
+lastmod: 
+slug: 
+image: "covers/linux.png"
+tags:
+  - 
+categories:
+  - Linux
+---
+
 Title: uso de apt
 Date: 2015-11-3 14:25
 Modified: 2015-11-3 14:25

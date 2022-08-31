@@ -1,12 +1,18 @@
-Title: Actualizar variables entorno
-Date: 2015-12-16 14:10
-Modified: 2015-12-16 14:10
-Category: Linux
-Tags: windows, linux, path
-Authors: procamora
-Slug: actualizar-variables-entorno
-Summary: El objetivo es modificar el path del sistema operativo. El PATH es la variable del sistema que utiliza el sistema operativo para buscar los ejecutables necesarios desde la línea de comandos o la ventana Terminal.
-Status: published
+---
+title: Actualizar variables entorno
+description: El objetivo es modificar el path del sistema operativo. El PATH es la variable del sistema que utiliza el sistema operativo para buscar los ejecutables necesarios desde la línea de comandos o la ventana Terminal.
+date: 2015-12-16
+lastmod: 2015-12-16
+slug: actualizar-variables-entorno
+image: "covers/linux.png"
+tags:
+  - windows
+  - linux
+  - path
+categories:
+  - Linux
+---
+
 
 
 ## Introducción:

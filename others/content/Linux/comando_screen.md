@@ -1,3 +1,15 @@
+---
+title: autorun script linux systemd
+description: 
+date: 
+lastmod: 
+slug: 
+image: "covers/linux.png"
+tags:
+  - 
+categories:
+  - Linux
+---
 Title: Uso de Screen
 Date: 2015-12-6 11:33
 Category: Linux

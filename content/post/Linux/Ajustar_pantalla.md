@@ -1,11 +1,17 @@
-Title: Ajustar pantalla virtualbox
-Date: 2015-11-5 14:26
-Modified: 2015-11-5 14:26
-Category: Linux
-Tags: linux, virtualbox
-Slug: Ajustar_pantalla
-Authors: procamora
-Summary:
+---
+title: Ajustar pantalla virtualbox
+description: 
+date: 2015-11-05
+lastmod: 2015-11-05
+slug: Ajustar_pantalla
+image: "covers/linux.png"
+tags:
+  - linux
+  - virtualbox
+categories:
+  - Linux
+---
+
 
 Para instalar los guest adition en una maquina instalada en virtualbox ejecutar
 

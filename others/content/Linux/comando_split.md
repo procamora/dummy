@@ -1,3 +1,15 @@
+---
+title: autorun script linux systemd
+description: 
+date: 
+lastmod: 
+slug: 
+image: "covers/linux.png"
+tags:
+  - 
+categories:
+  - Linux
+---
 Title: Comando Split
 Date: 2015-12-21 15:58
 Modified: 2015-12-21 15:58

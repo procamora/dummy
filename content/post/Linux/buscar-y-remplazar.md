@@ -1,10 +1,23 @@
-﻿Title: Buscar y remplazar
-Date: 2015-12-1 16:40
-Category: Linux
-Tags: consola, egrep, sed, linux, regex, python, perl, find
-Slug: buscar-y-remplazar
-Summary: Vamos a repasar algunos métodos para buscar y remplazar una palabra o expresion regular.
-Status: published
+﻿---
+title: Buscar y remplazar
+description: Vamos a repasar algunos métodos para buscar y remplazar una palabra o expresion regular.
+date: 2015-12-01
+lastmod: 2015-12-01
+slug: buscar-y-remplazar
+image: "covers/linux.png"
+tags:
+  - console
+  - egrep
+  - grep
+  - sed
+  - linux
+  - regex
+  - python
+  - perl
+  - find
+categories:
+  - Linux
+---
 
 [TOC]
 
@@ -62,9 +75,10 @@ Funcionalidad:
 - Regex: &#10004;
 
 [Descargar script][python]
+
 ```python
 #!/usr/bin/env python
-#Fuente: http://code.activestate.com/recipes/580653-recursive-find-replace-in-files-using-regex/
+# Fuente: http://code.activestate.com/recipes/580653-recursive-find-replace-in-files-using-regex/
 
 import os
 import fnmatch
@@ -73,16 +87,18 @@ import shutil
 import re
 import argparse
 
+
 def find_replace(cfg):
     search_pattern = re.compile(cfg.search_regex)
     for path, dirs, files in os.walk(os.path.abspath(cfg.dir)):
         for filename in fnmatch.filter(files, cfg.glob):
-            pardir = os.path.normpath(os.path.join(path, '..'))
+            pardir = os.path.normpath(os.path.join(path, '../../../others/content'))
             pardir = os.path.split(pardir)[-1]
-            print '[%s]' % pardir,
+            print
+            '[%s]' % pardir,
             filepath = os.path.join(path, filename)
 
-            #backup orig file
+            # backup orig file
             if cfg.create_backup:
                 backup_path = filepath + '.bak'
 
@@ -118,13 +134,13 @@ def find_replace(cfg):
                 print('File {} does not contain search regex "{}"'.format(filename, cfg.search_regex))
 
 
-
 if __name__ == '__main__':
-
     ejemplo = './search_replace.py -d "../" -s "tags:" -r "Tags:" -g "*.md"'
-    parser = argparse.ArgumentParser(description='DESCRIPCION:\n   Buscar y reemplazar recursivamente desde la carpeta dada usando expresiones regulares',
-                                     formatter_class=argparse.RawDescriptionHelpFormatter,
-                                     epilog='''USO:\n   {0} -d "directorio/" -s "busca" -r "remplaza" -g "*.md"'''.format(os.path.basename(sys.argv[0])))
+    parser = argparse.ArgumentParser(
+        description='DESCRIPCION:\n   Buscar y reemplazar recursivamente desde la carpeta dada usando expresiones regulares',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''USO:\n   {0} -d "directorio/" -s "busca" -r "remplaza" -g "*.md"'''.format(
+            os.path.basename(sys.argv[0])))
 
     parser.add_argument('--dir', '-d',
                         help='Carpeta a buscar, por defecto la carpeta actual',
