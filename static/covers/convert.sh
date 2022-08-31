@@ -1,6 +1,9 @@
 #!/bin/bash
 # https://stackoverflow.com/questions/9853325/how-to-convert-a-svg-to-a-png-with-image-magick
 
+# pip install optimize-images
+optimize-images --no-recursion ./
+
 #DENSITY=250 
 #convert -density $DENSITY DC_Parser.svg DC_Parser.png
 #convert -density $DENSITY DC_Tables.svg DC_Tables.png
