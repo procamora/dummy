@@ -3,7 +3,7 @@ title: Uso de adb
 description: "Uso de adb"
 date: 2015-09-09 11:11
 slug: "Uso-de-adb"
-image: "covers/android.png"
+image: "covers/draft.png"
 tags:
   - android
   - adb

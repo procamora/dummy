@@ -42,7 +42,7 @@ En esta primera parte pondré todos las librerías y programas que suelo instala
 - [Pycharm](#mark17)
 - [Telegram](#mark18)
 - [Eclipse](#mark19)
-- [Docker y Docker-Compose](#mark27)
+- [Docker y Docker-Compose](#mark20)
 - [Google Chrome](#mark21)
 - [Google Music](#mark22)
 - [system-config-samba](#mark23)
@@ -269,7 +269,7 @@ tar -xvf $programa && rm $programa && cd -
 ```
 
 
-## Docker y Docker-Compose  {#mark27}
+## Docker y Docker-Compose  {#mark20}
 
 
 ```bash
