@@ -65,7 +65,8 @@ permalinks:
 
 params:
   GithubEdit: "https://github.com/procamora/dummy/edit/main/content/"  # custom add
-  DownnloadPDF: "https://github.com/procamora/dummy/edit/main/content/"  # custom add
+  DownnloadPDF: "/pdf/"  # option 1
+  # DownnloadPDF: "https://github.com/procamora/dummy/raw/main/static/pdf/"  # option 2
 
   mainSections:
     - post

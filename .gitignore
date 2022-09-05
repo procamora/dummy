@@ -2,10 +2,6 @@ public/
 resources/_gen/
 
 *.pid
-../../Wiki-Personal/output/
-content/.git.tar.gz
-
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
