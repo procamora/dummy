@@ -48,7 +48,7 @@ languages:
         src: icons/procamora_30.png
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname : 'procamora-github'
 
 # GA Tracking ID
 googleAnalytics:
@@ -61,7 +61,12 @@ permalinks:
   post: /p/:slug/
   page: /:slug/
 
+
+
 params:
+  GithubEdit: "https://github.com/procamora/dummy/edit/main/content/"  # custom add
+  DownnloadPDF: "https://github.com/procamora/dummy/edit/main/content/"  # custom add
+
   mainSections:
     - post
   featuredImageField: image
@@ -88,12 +93,13 @@ params:
 
   comments:
     enabled: true
-    provider: utterances
+    provider: disqus  # set disqusShortname
 
-    utterances:
-      repo: lomirus/lomirus.github.io
-      issueTerm: pathname
-      label: utterances
+#    provider: utterances  # https://utteranc.es/ and https://github.com/apps/utterances
+#    utterances:
+#      repo: procamora/dummy
+#      issueTerm: pathname
+#      label: utterances
 
   widgets:
     homepage:
